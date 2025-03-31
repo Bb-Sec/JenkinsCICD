@@ -1,4 +1,4 @@
-FROM node:18.13.0
+FROM node:18.20.8
 ENV NAME=sojadiatiolo
 # ENV PORT=8081
 
